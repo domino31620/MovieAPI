@@ -1,0 +1,24 @@
+{
+  "name": "personal-project",
+  "version": "1.0.0",
+  "description": "<!-- I hope that I did this right. I am defintely open to suggestions if there are some things that aren't right.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-boilerplate-generator": "^1.1.0",
+    "mongo": "^0.1.0",
+    "mongodb": "^4.1.3",
+    "mongoose": "^6.0.12"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
